@@ -24,7 +24,7 @@ http://www.drizopoulos.com/courses/emc/ep03_%20survival%20analysis%20in%20r%20co
 <br>
 
 Survival Analysis — Part A:
-An introduction to the concepts of Survival Analysis and its implementation in lifelines package for Python.##
+An introduction to the concepts of Survival Analysis and its implementation in lifelines package for Python.
 https://towardsdatascience.com/survival-analysis-part-a-70213df21c2e
 <br>
 
