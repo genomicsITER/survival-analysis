@@ -9,8 +9,6 @@ https://www.r-bloggers.com/survival-analysis-with-r/
 **Survival Analysis Basics, in R Bloggers**
 https://www.r-bloggers.com/survival-analysis-basics/
 
-<hr>
-
 **Survival Analysis in R, in OpenIntro**
 https://www.openintro.org/book/surv_in_r/
 
