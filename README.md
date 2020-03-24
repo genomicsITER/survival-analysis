@@ -1,4 +1,4 @@
-** Survival Analysis **
+**Survival Analysis**
 A repository to deposit Survival Analysis resources, maintained by ITER.
 
 <hr>
