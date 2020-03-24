@@ -40,4 +40,7 @@ Survival Analysis with R, in R Views:
 https://rviews.rstudio.com/2017/09/25/survival-analysis-with-r/
 <br>
 
+survminer R package: Survival Data Analysis and Visualization: 
+http://www.sthda.com/english/wiki/survminer-0-3-0
+<br>
 
