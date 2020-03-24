@@ -11,6 +11,9 @@ Survival Analysis Basics, in R Bloggers:
 https://www.r-bloggers.com/survival-analysis-basics/
 <br>
 
+Survival Analysis in R, by Emily C. Zabor: https://www.emilyzabor.com/tutorials/survival_analysis_in_r_tutorial.html
+<br>
+
 Survival Analysis in R, in OpenIntro:
 https://www.openintro.org/book/surv_in_r/
 <br>
